@@ -56,6 +56,4 @@ El diseño utiliza Tailwind CSS con:
 - Colores:
   - Gris para botones de función
   - Naranja para botones de operaciones
-  - Fondo gris claro
-
-
+  - Fondo gris claro.
